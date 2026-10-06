@@ -8,4 +8,4 @@ Run `npm install`, `npx prisma generate`, and `npx ts-node index.ts`. The SQLite
 
 ## Author
 
-Author: [rajivranjanmars](https://rajivranjana.in).
+Author: [Rajiv Ranjan](https://rajivranjan.in).
