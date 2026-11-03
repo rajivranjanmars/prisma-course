@@ -6,7 +6,7 @@
     "typescript": "^7.0.2"
   },
   "dependencies": {
-    "@prisma/client": "^7.10.0"
+    "@prisma/client": "^7.10.1"
   },
   "author": {
     "name": "rajivranjanmars",
